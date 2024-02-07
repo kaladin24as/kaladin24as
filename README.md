@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Benjamin, tambien me puedes llamar Kaladin :) </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Frhobvsmwtu871.gif%3Fformat%3Dmp4%26s%3D42bd9f50e5048b8381cbb8e51f1e736569d0bbf4"></a>
+  <a href="https://github.com/kaladin24as/kaladin24as"><img src="https://github.com/kaladin24as/kaladin24as/blob/main/c517b4e261b09415335fe133d497b87c.gif"></a>
 </p>
 
 
