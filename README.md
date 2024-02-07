@@ -25,8 +25,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/1762562"><img src="https://icons8.com/icon/zGW6W39HwbaJ/hacker" alt="HTB"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-hacker-cyber-security-flaticons-lineal-color-flat-icons-2.png" alt="external-hacker-cyber-security-flaticons-lineal-color-flat-icons-2"/> alt="LeetCode"/></a>
+  	<a href="https://app.hackthebox.com/profile/1762562"><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-hacker-cyber-security-flaticons-lineal-color-flat-icons-2.png" alt="external-hacker-cyber-security-flaticons-lineal-color-flat-icons-2"/>
 	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
