@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Benjamin, tambien me puedes llamar Kaladin :) </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Frhobvsmwtu871.gif%3Fformat%3Dmp4%26s%3D42bd9f50e5048b8381cbb8e51f1e736569d0bbf4)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Frhobvsmwtu871.gif%3Fformat%3Dmp4%26s%3D42bd9f50e5048b8381cbb8e51f1e736569d0bbf4"></a>
 </p>
 
 
