@@ -18,7 +18,7 @@
 - :trophy: Top 15 en el ranking de Chile en Hack The Box
 - :technologist: Me gusta aprender nuevas tecnologias. 
 - :computer: Me gusta competir en `Hacker Rank` y en `Hack The Box`
-- :student: Actualmente estoy aprendiendo análisis de datos con Python y Power BI
+- :student: Actualmente estoy aprendiendo análisis de datos con Python y Power BI. Si quieres, te puedo prestar alguno de mis apuntes: https://app.gitbook.com/invite/ptF4lzpfbzpejdGyC0TP/GrUaZ9Kid2Th7Leewgm0
 <br>
 
 
