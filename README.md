@@ -27,9 +27,7 @@
 <p align="center">
   	<a href="https://app.hackthebox.com/profile/1762562"><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-hacker-cyber-security-flaticons-lineal-color-flat-icons-2.png" alt="external-hacker-cyber-security-flaticons-lineal-color-flat-icons-2"/>
 	<a href="https://www.hackerrank.com/profile/tomas_farias_e"><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
-	<a href="https://profiles.datawars.io/tomas.farias.e"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+	<a href="https://profiles.datawars.io/tomas.farias.e"><img width="64" height="64" src="https://img.icons8.com/external-bearicons-gradient-bearicons/64/external-SQL-file-extension-bearicons-gradient-bearicons.png" alt="external-SQL-file-extension-bearicons-gradient-bearicons"/>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
