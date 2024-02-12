@@ -1,4 +1,4 @@
-#"Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."
+align="center"> "Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."
 
 <h1 align="center">Hola, soy Benjamin, tambien me puedes llamar Kaladin :) </h1>
 <p align="center">
