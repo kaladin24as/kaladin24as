@@ -19,7 +19,7 @@
 - :technologist: Me gusta aprender nuevas tecnologias. 
 - :computer: Me gusta competir en `Hacker Rank` y en `Hack The Box`
 - :student: Actualmente estoy aprendiendo análisis de datos con Python y Power BI. Si quieres, te puedo prestar alguno de mis apuntes: https://app.gitbook.com/invite/ptF4lzpfbzpejdGyC0TP/GrUaZ9Kid2Th7Leewgm0
-<br>
+<br> . Puedes ver mis repositorio de Python acá https://github.com/kaladin24as/PythonProyectos y el de analisis de datos https://github.com/kaladin24as/DataAnalyst
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
