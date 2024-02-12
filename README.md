@@ -1,6 +1,5 @@
-align="center"> "Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino."
 
-<h1 align="center">Hola, soy Benjamin, tambien me puedes llamar Kaladin :) </h1>
+<h1 align="center">Hola, soy Benjamin! :) </h1>
 <p align="center">
   <a href="https://github.com/kaladin24as/kaladin24as"><img src="https://github.com/kaladin24as/kaladin24as/blob/main/c517b4e261b09415335fe133d497b87c.gif"></a>
 </p>
